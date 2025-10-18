@@ -4,6 +4,10 @@
 ![header](img/github-header-banner%20(1).png)
 
 
+
+![spike](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFrN3ByNGVpa241Zmd5bG9zMjlxMnp1ZTN3aXIxejN3cmw0cnlwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif)
+
+
 <!--
 **Hirayasa747/Hirayasa747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,6 +44,11 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
 <p align="left">Play Games With Me</p>
 
 ###
@@ -52,3 +61,6 @@ Here are some ideas to get you started:
 
 ###
 
+
+
+![Waguri](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtpNDZxYTFxbmIxNTkxODBlYW8wNW43azA2Y2Z4ZGRzbTZ6cDBudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctXLLko0OadX1rCGnk/giphy.gif)
