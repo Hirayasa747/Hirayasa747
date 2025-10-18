@@ -21,7 +21,34 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **The Basics of Programming** ✌️
 
+##### Studying :
+[![My Skills](https://skillicons.dev/icons?i=html,js,py,c,cpp,cs&perline=3)](https://skillicons.dev)
+
+<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> -->
+
+##### Connect with me :
+
+![https://instagram.com/hirayasa_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://x.com/hirayasa2247](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+
+##### My Github Stats :
+
+![Hira's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirayasa747&show_icons=true&theme=tokyonight)
 
 
-![waguri](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE1bXdlcHpxeDhuNXAzbjc0a3N2a2I5czR1dHNneWd1b2NpNjNxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctXLLko0OadX1rCGnk/giphy.gif)
+
+<p align="left">Play Games With Me</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hirayasa747/Hirayasa747/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hirayasa747/Hirayasa747/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hirayasa747/Hirayasa747/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
