@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![header](img/github-header-banner.png)
+![header](img/github-header-banner%20(1).png)
 
 
 <!--
