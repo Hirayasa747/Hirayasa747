@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+![header](img/anime+manga%20headers.jpg)
+
+
 <!--
 **Hirayasa747/Hirayasa747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **The Basics of Programming** ✌️
+
+
+
+![waguri](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE1bXdlcHpxeDhuNXAzbjc0a3N2a2I5czR1dHNneWd1b2NpNjNxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctXLLko0OadX1rCGnk/giphy.gif)
+
