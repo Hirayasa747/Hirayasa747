@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![header](img/anime+manga%20headers.jpg)
+![header](img/github-header-banner.png)
 
 
 <!--
