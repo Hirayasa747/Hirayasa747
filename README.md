@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ##### Connect with me :
 
-![https://instagram.com/hirayasa_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://x.com/hirayasa2247](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![https://instagram.com/hirayasa_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://x.com/hirayasa2247?t=n6nsbU1J84Z4WXSSC7Dxpg&s=09](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
 ##### My Github Stats :
 
