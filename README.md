@@ -1,29 +1,20 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+<!-- ![header](img/github-header-banner%20(1).png) -->
+<img src="https://media1.tenor.com/m/TdCu1_KQmAcAAAAC/kaoruko-waguri-kaoruko.gif" width="900">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hirayasa747&style=for-the-badge"  />
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Hirayasa! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
 
 
-![header](img/github-header-banner%20(1).png)
 
 
 
-![spike](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFrN3ByNGVpa241Zmd5bG9zMjlxMnp1ZTN3aXIxejN3cmw0cnlwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif)
 
 
-<!--
-**Hirayasa747/Hirayasa747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 I’m currently learning **The Basics of Programming** ✌️
+ 🌱 I’m currently learning **The Basics of Programming** ✌️
 
 ##### Studying :
 [![My Skills](https://skillicons.dev/icons?i=html,js,py,c,cpp,cs&perline=3)](https://skillicons.dev)
@@ -46,11 +37,11 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=Hirayasa747&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirayasa747&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-##### 🏆 GitHub Trophies :
-![](https://github-profile-trophy.vercel.app/?username=Hirayasa747&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<!-- ##### 🏆 GitHub Trophies :
+![](https://github-profile-trophy.vercel.app/?username=Hirayasa747&theme=onedark) -->
+
 
  
-<!-- [![](https://visitcount.itsvg.in/api?id=Hirayasa747&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
 
