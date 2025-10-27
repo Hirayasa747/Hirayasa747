@@ -61,4 +61,10 @@
 
 
 
-![Waguri](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtpNDZxYTFxbmIxNTkxODBlYW8wNW43azA2Y2Z4ZGRzbTZ6cDBudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctXLLko0OadX1rCGnk/giphy.gif)
+
+
+
+
+<img src="https://media1.tenor.com/m/gL4YvP_j5XUAAAAd/waguri-the-fragrant-flower-blooms-with-dignity.gif" width="900">
+
+
