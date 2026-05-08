@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 <!-- ![header](img/github-header-banner%20(1).png) -->
-<img src="https://media1.tenor.com/m/odp9jZXti54AAAAd/aigis-smile.gif" width="900">
+<img src="https://media1.tenor.com/m/oaNSMBGaxvEAAAAC/k-on-opening.gif" width="900">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hirayasa747&style=for-the-badge"  />
