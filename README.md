@@ -17,7 +17,7 @@
  🌱 I’m currently learning **The Basics of Programming** ✌️
 
 ##### Studying :
-[![My Skills](https://skillicons.dev/icons?i=html,js,py,c,cpp,cs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cpp,cs&perline=3)](https://skillicons.dev)
 
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
