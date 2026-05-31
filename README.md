@@ -65,6 +65,6 @@
 
 
 
-<img src="https://media1.tenor.com/m/OlHMWq46CtAAAAAC/serial-experiments-lain-lain.gif" width="900">
+<img src="https://media1.tenor.com/m/PDKAgBRgVA8AAAAC/lain-serial-experiments-lain.gif" width="900">
 
 
