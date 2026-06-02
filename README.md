@@ -4,6 +4,7 @@
 <img src="https://media1.tenor.com/m/oaNSMBGaxvEAAAAC/k-on-opening.gif" width="700">
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hirayasa747&style=for-the-badge"  />
