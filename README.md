@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Hirayasa747&style=for-the-badge"  />
 </div>
 
+<br>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&center=true&vCenter=true&width=600&height=40&lines=Hello!+I'm+Hira;Currently+learning+how+to+code;Nice+to+meet+everyone+here" alt="Typing SVG"/>
