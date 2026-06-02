@@ -1,7 +1,8 @@
 <!-- ## Hi there width sebelumnya 900 👋 -->
 <!-- ![header](img/github-header-banner%20(1).png) -->
+<div align="center">
 <img src="https://media1.tenor.com/m/oaNSMBGaxvEAAAAC/k-on-opening.gif" width="700">
-
+</div>
 
 
 <div align="center">
