@@ -6,24 +6,20 @@
   <img src="https://komarev.com/ghpvc/?username=Hirayasa747&style=for-the-badge"  />
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Hirayasa! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=truewidth=600&height=60&lines=Hello!+I'm+Hira;Currently+learning+how+to+code;Nice+to+meet+everyone+here" alt="Typing SVG"/>
+</div>
+
+---
+<!-- ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Hirayasa! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> -->
 
 
-
-
-
-
-
- 🌱 I’m currently learning **The Basics of Programming** ✌️
+ <!-- 🌱 I’m currently learning **The Basics of Programming** ✌️ -->
 
 ##### Studying :
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cpp,cs&perline=3)](https://skillicons.dev)
 
-<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> -->
+
 
 ##### Connect with me :
 
@@ -47,7 +43,7 @@
 
 
 
-<p align="left">Play Games With Me</p>
+<p align="left">PACMAN 👾</p>
 
 ###
 
