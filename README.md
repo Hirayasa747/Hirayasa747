@@ -1,16 +1,22 @@
-<!-- ## Hi there 👋 -->
+<!-- ## Hi there width sebelumnya 900 👋 -->
 <!-- ![header](img/github-header-banner%20(1).png) -->
-<img src="https://media1.tenor.com/m/oaNSMBGaxvEAAAAC/k-on-opening.gif" width="900">
+<img src="https://media1.tenor.com/m/oaNSMBGaxvEAAAAC/k-on-opening.gif" width="500">
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hirayasa747&style=for-the-badge"  />
 </div>
 
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=truewidth=600&height=60&lines=Hello!+I'm+Hira;Currently+learning+how+to+code;Nice+to+meet+everyone+here" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&width=600&height=40&lines=Hello!+I'm+Hira;Currently+learning+how+to+code;Nice+to+meet+everyone+here" alt="Typing SVG"/>
 </div>
 
+
+
 ---
+
 <!-- ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Hirayasa! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> -->
 
 
