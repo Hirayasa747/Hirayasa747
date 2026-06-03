@@ -25,12 +25,12 @@
 
  <!-- 🌱 I’m currently learning **The Basics of Programming** ✌️ -->
 
-### Studying :
+## Studying :
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,c,cpp,cs&perline=3)](https://skillicons.dev)
 
 
 
-### Connect with me :
+## Connect with me :
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hirayasa_) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hirayasa2247) 
