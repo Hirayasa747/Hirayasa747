@@ -1,7 +1,7 @@
 <!-- ## Hi there width sebelumnya 900, sebelumnya lagi 700 👋 -->
 <!-- ![header](img/github-header-banner%20(1).png) -->
 <div align="center">
-<img src="https://media1.tenor.com/m/Xl_bbBVJXg0AAAAC/lain-serial-experiments.gif" width="700">
+<img src="https://media1.tenor.com/m/Xl_bbBVJXg0AAAAC/lain-serial-experiments.gif">
 </div>
 
 <br>
