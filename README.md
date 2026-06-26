@@ -1,7 +1,7 @@
 <!-- ## Hi there width sebelumnya 900 👋 -->
 <!-- ![header](img/github-header-banner%20(1).png) -->
 <div align="center">
-<img src="https://media1.tenor.com/m/iIpQSbz3qzsAAAAC/anime-suzumiya-haruhi-no-yuuutsu.gif" width="700">
+<img src="https://media1.tenor.com/m/4OPvDDTjWhEAAAAC/lain-lain-iwakura.gif" width="700">
 </div>
 
 <br>
