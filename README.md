@@ -70,6 +70,6 @@
 
 
 
-<img src="https://media1.tenor.com/m/-oX6GkEkoWcAAAAC/lain.gif" width="800">
+<img src="https://media1.tenor.com/m/RvrJYDpAIVYAAAAC/ps1-lain-playstation.gif" width="900">
 
 
