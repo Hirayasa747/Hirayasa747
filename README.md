@@ -70,6 +70,6 @@
 
 
 
-<img src="https://media1.tenor.com/m/AtAW1M7pHggAAAAC/lain-experiments.gif" width="900">
+<img src="https://media1.tenor.com/m/AtAW1M7pHggAAAAC/lain-experiments.gif" width="800">
 
 
